@@ -1,8 +1,5 @@
 # Oblix SDK Documentation
 
-[![GitHub stars](https://img.shields.io/github/stars/oblix-ai/docs?style=social)](https://github.com/oblix-ai/docs/stargazers)
-[![License](https://img.shields.io/github/license/oblix-ai/docs)](https://github.com/oblix-ai/docs/blob/main/LICENSE)
-
 Official documentation for the Oblix SDK - Intelligent AI model orchestration between local and cloud models.
 
 ## About Oblix
